@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Molndalstrafik Bus Company</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Molndalstrafik Bus Company</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="routes.html">Routes & Schedules</a>
+      <a href="tickets.html">Tickets</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome!</h2>
+      <p>Your reliable partner for daily commutes and travel in Molndal.</p>
+      <ul>
+        <li>Find our <a href="routes.html">bus routes and schedules</a>.</li>
+        <li>Learn how to <a href="tickets.html">buy tickets</a>.</li>
+        <li>Read more <a href="about.html">about us</a>.</li>
+        <li><a href="contact.html">Contact</a> us for any questions.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Molndalstrafik Bus Company.</p>
+  </footer>
+</body>
+</html>
